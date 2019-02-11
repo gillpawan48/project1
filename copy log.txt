@@ -1,0 +1,1 @@
+copied the onboarding folder after installing all the modules and running JSX.
